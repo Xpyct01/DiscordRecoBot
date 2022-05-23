@@ -4,10 +4,10 @@ This is Discord Music bot with suppport of recommendations of spotify tracks.
 
 Related Colab Notebook: [link](https://colab.research.google.com/drive/1s6ZcoW4QrdS6T-oj2rLnlMvPbYx1kaJq?usp=sharing)
 ### To launch it you have to do follow things:
- - get discord app token [link](https://discord.com/developers/applications/)
- - get spotify tokens [link](https://developer.spotify.com/dashboard/)
- - ffmpeg
- - And other necessary libraries
+ - Get discord app token [link](https://discord.com/developers/applications/)
+ - Get spotify tokens [link](https://developer.spotify.com/dashboard/)
+ - Install ffmpeg
+ - Install other necessary libraries
 #### self hosting:
 - run app.py & bot.py
 #### commands:
