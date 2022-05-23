@@ -1,0 +1,6 @@
+/config.py
+/tracks_features.csv
+/venv/
+/reco_system/static/
+/reco_system/templates/
+/musicbot/utils/ffmpeg/
